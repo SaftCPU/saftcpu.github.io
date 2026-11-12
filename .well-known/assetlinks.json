@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "dev.evcompanion.app.realtest",
+            "sha256_cert_fingerprints": [
+                "14:F8:18:5C:4D:AD:AB:1A:42:B9:41:12:B1:58:19:E0:8E:E1:3F:01:E1:66:DE:18:7F:31:4E:00:40:FB:58:7C"
+            ]
+        }
+    }
+]
